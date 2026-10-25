@@ -1,14 +1,22 @@
-## Hi there 👋
+```php
+<?php echo "¡Hola Mundo!! 👋"; ?>
+```
 
-**Crisadso/Crisadso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Análisis y Desarrollo de Software e Ingeniería en Sistemas, actualmente comenzando mi etapa de desarrollo como programador. Soy una persona apasionada por la tecnología y la programación 💻
 
-Here are some ideas to get you started:
+Cuento con conocimientos básicos en desarrollo de software, especialmente en PHP. También tengo conocimientos en mantenimiento de equipos de computación 🛠️ y me encuentro en proceso de formación como programador en bases de datos 🗄️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Me caracterizo por tener una gran capacidad para aprender rápido ⚡ y por ser una persona de buen desempeño, comprometida con mejorar cada día y seguir creciendo en el mundo del desarrollo.
+
+## 🚀 Tecnologías y habilidades
+
+* 🐘 PHP (Basico)
+* 🗄️ Bases de datos (en progreso)
+* 🖥️ Mantenimiento de equipos de computación
+* 📚 Aprendizaje rápido
+* 🎯 Buen desempeño y compromiso
+
+## 🌐 Puedes encontrarme en
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/cris-pbr/)
+* GitHub: Aquí estas 😉...
